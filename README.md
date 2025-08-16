@@ -12,8 +12,8 @@ I'm a passionate software developer with a love for creating innovative solution
 - 🌱 I'm currently learning **advanced cloud technologies and AI/ML**
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **DevOps and cloud architecture**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **ahmed.darwish@example.com**
+- 💬 Ask me about **JavaScript, Python, Angular, .Net**
+- 📫 How to reach me: **darwishahmed249@gmail.com**
 - ⚡ Fun fact: **I love solving algorithmic challenges and contributing to open source**
 
 ## 🛠️ Tech Stack
@@ -101,16 +101,13 @@ A project that demonstrates your problem-solving abilities and innovative thinki
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/ahmed-darwish-3602a2377/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:ahmed.darwish@example.com">
+  <a href="mailto:darwishahmed249@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -131,7 +128,7 @@ A project that demonstrates your problem-solving abilities and innovative thinki
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Bachelor's in Computer Science** - University Name (2020)
+- 🎓 **Bachelor's in Computer Science** - Minia University (2021)
 - 🏆 **AWS Certified Developer Associate**
 - 📜 **MongoDB Certified Developer**
 - 🎖️ **Google Cloud Professional Developer**
